@@ -8,4 +8,4 @@ Demo: http://byaman.myshopify.com/products/erin-rolled-crop-relaxed-denim-womens
 
 For Demo, You'll need to add item to the cart and then proceed to checkout and you'll see one notification always visible and second notification will appear if you select country other than US.
 
-You can find step wise tutorial here: http://byaman.com/adding-custom-message-shopify-checkout-page/
+You can find step wise tutorial here: http://byaman.com/adding-notification-on-shopify-checkout/
